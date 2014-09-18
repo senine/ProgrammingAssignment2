@@ -1,4 +1,4 @@
-## makeCatheMatrix provides a structure to cathe and manupulate the assigned matrix
+## makeCatheMatrix provides a structure to cache and manupulate the assigned matrix
 ## and its inverse.
 ## cacheSolve caculates the inverse function (if NULL) or reads inverse from
 ## makeCatheMatrix.
